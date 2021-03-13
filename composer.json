@@ -1,6 +1,6 @@
 {
-    "name": "webee-online/php8-base",
-    "description": "This is your project description",
+    "name": "webee-online/php-kata-roman-numerals",
+    "description": "Roman Numerals Kata in PHP for article on WeBee.School",
     "type": "project",
     "license": "GPL-3.0-only",
     "authors": [
